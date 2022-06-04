@@ -1,0 +1,15 @@
+C:\Users\davie\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Users\davie\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Users\davie\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Users\davie\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Users\davie\source\repos\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\Users\davie\source\repos\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
